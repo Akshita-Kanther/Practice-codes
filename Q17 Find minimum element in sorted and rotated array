@@ -1,0 +1,6 @@
+# @type of arr: list of integers
+# @return type: integer
+class Solution:
+    def findMinElement(self, arr: List[int]) -> int:
+    	# write your awesome code here
+        return(min(arr))
